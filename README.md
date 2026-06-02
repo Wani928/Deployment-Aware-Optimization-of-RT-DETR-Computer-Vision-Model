@@ -38,7 +38,7 @@ This project conducts a structured experimental sweep over query values and appl
 
 ## Publication Status
 
-The work is currently under internal discussion for potential publication.
+The work work has been submitted to the IEEE backed international conference International Conference on System Theory, Control and Computing (ICSTCC) which will be hosted in Romania in October.
 
 To preserve academic integrity, the full experimental implementation and model modifications are not publicly available at this time.
 
